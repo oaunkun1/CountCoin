@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Count Coin</string>
+    <string name="camera_api_v1">นับเหรียญ</string>
+    <string name="camera_api_v2">รายการบันทึก</string>
+    <string name="camera_and_write_external_storage_denied">Please allow camera and write external storage permission to use this app.</string>
+    <string name="negative_color_effect_unavailable">Negative color effect is unavailable on this devices</string>
+    <string name="camera_api_v2_unavailable">Camera API v2 is available for API 21 or above only.</string>
+    <string name="negative_on">Flash On</string>
+    <string name="negative_off">Flash Off</string>
+    <string name="focus">Focus</string>
+    <string name="capture">Capture</string>
+
+    <string name="main_coin">.: รายการที่บันทึก :.</string>
+    <string name="action_add">Add New</string>
+    <string name="title_activity_edit2">Edit2Activity</string>
+
+
+</resources>
